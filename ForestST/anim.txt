@@ -1,0 +1,12 @@
+0-44 - idle
+0-32 - walk
+0-21 - run
+0-24 - fall
+0-24 - crouch
+0-22 - crouch walk
+0-24 - fire
+0-24 - pfire
+0-28 - knife
+0-62 - death_hs
+0-34 - death
+0-42 - reload
